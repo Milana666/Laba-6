@@ -37,7 +37,7 @@ namespace ConsoleApplication4
                 Console.Write("{0:#.#}    ", a[i]);
             }
             Console.WriteLine();
-        
+
         }
         static void MaxSort(int n)
         {
